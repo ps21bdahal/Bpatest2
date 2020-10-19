@@ -1,10 +1,13 @@
 {
   "ExpandedNodes": [
     "",
+    "\\obj",
+    "\\obj\\Debug",
     "\\Pages",
+    "\\Pages\\Shared",
     "\\wwwroot",
     "\\wwwroot\\css"
   ],
-  "SelectedNode": "\\Pages\\Index.cshtml",
+  "SelectedNode": "\\Bpa Test 2.csproj",
   "PreviewInSolutionExplorer": false
 }
