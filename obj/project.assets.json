@@ -4945,23 +4945,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ps21bdahal\\.nuget\\packages\\": {},
+    "C:\\Users\\PS21EAbbington\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "P:\\Bpa web\\Bpa Test 2\\Bpa Test 2.csproj",
+      "projectUniqueName": "C:\\Users\\PS21EAbbington\\Source\\Repos\\Bpatest2\\Bpa Test 2.csproj",
       "projectName": "Bpa Test 2",
-      "projectPath": "P:\\Bpa web\\Bpa Test 2\\Bpa Test 2.csproj",
-      "packagesPath": "C:\\Users\\ps21bdahal\\.nuget\\packages\\",
-      "outputPath": "P:\\Bpa web\\Bpa Test 2\\obj\\",
+      "projectPath": "C:\\Users\\PS21EAbbington\\Source\\Repos\\Bpatest2\\Bpa Test 2.csproj",
+      "packagesPath": "C:\\Users\\PS21EAbbington\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\PS21EAbbington\\Source\\Repos\\Bpatest2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\ps21bdahal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\PS21EAbbington\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
