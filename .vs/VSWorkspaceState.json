@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
     "",
+    "\\obj",
+    "\\obj\\Debug",
     "\\Pages",
+    "\\Pages\\Shared",
     "\\wwwroot",
     "\\wwwroot\\css"
   ],
