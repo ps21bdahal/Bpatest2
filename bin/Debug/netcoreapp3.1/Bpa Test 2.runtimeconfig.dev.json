@@ -1,7 +1,7 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "C:\\Users\\Ps21pgurung\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ps21bdahal\\.dotnet\\store\\|arch|\\|tfm|",
       "C:\\Users\\Ps21pgurung\\.nuget\\packages",
       "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
     ]
