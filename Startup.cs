@@ -8,6 +8,8 @@ using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using Microsoft.EntityFrameworkCore;
+using Bpa_Test_2.Data;
 
 namespace Bpa_Test_2
 {
@@ -24,6 +26,9 @@ namespace Bpa_Test_2
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddRazorPages();
+
+            services.AddDbContext<Bpa_Test_2Context>(options =>
+                    options.UseSqlServer(Configuration.GetConnectionString("Bpa_Test_2Context")));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
